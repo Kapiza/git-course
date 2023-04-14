@@ -1,3 +1,3 @@
-# Git and gith
+# Git and GitHub
 
-Crash course for Git
+Hello GitHub
